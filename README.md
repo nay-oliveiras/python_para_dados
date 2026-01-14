@@ -1,6 +1,6 @@
 # python_para_dados
 
-curso de Análise de Dados, onde desenvolvi um projeto prático utilizando dados públicos do Portal da Transparência, com foco na análise de viagens a serviço em 2023.
+Curso de Python para Análise de Dados, onde desenvolvi um projeto prático utilizando dados públicos do Portal da Transparência, com foco na análise de viagens a serviço em 2023.
 
 Ao longo do curso, trabalhei com um grande volume de dados (mais de 800 mil registros), aplicando técnicas essenciais de limpeza, transformação, análise e visualização de dados utilizando Python e Pandas.
 
